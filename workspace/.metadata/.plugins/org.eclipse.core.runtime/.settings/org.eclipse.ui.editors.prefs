@@ -1,0 +1,9 @@
+AbstractTextEditor.Color.Background=220,248,223
+AbstractTextEditor.Color.Background.SystemDefault=false
+eclipse.preferences.version=1
+lineNumberColor=255,0,128
+overviewRuler_migration=migrated_3.1
+printMargin=true
+printMarginColor=255,128,128
+printMarginColumn=100
+spacesForTabs=true

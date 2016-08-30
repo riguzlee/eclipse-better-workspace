@@ -1,0 +1,20 @@
+INDEX VERSION 1.129+D:\Works\Git\eclipse-better-workspace\workspace\.metadata\.plugins\org.eclipse.jdt.core
+2427463059.index
+1755481354.index
+2493371896.index
+3927593414.index
+1514491159.index
+2253603160.index
+4162300811.index
+326396883.index
+701253777.index
+1265345409.index
+54703828.index
+2229558407.index
+813478693.index
+1641798410.index
+314441650.index
+491336449.index
+83811379.index
+3777099855.index
+654516646.index
