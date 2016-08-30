@@ -29,6 +29,7 @@ public class HelloWorld<E> extends Object implements Serializable {
         staticMethod();
         return foo(local) + parameter;
     }
+
     
     public static void staticMethod() {
 
